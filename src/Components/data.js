@@ -1,0 +1,43 @@
+const dataObject = [{
+        id: 1,
+        name: "Bajrang Punia",
+        medal: "Bronze",
+        type: "O",
+        sports: "Freestyle Wrestling",
+        country: "India",
+        age: "27",
+        gender: "Male",
+    },
+    {
+        id: 2,
+        name: "Mirabai Chanu",
+        medal: "Silver",
+        type: "O",
+        sports: "Weightlifting",
+        country: "India",
+        age: "26",
+        gender: "Female",
+    },
+    {
+        id: 3,
+        name: "Avani Lekhara",
+        medal: "Gold",
+        type: "P",
+        sports: "Shooting",
+        country: "India",
+        age: "25",
+        gender: "Female",
+    },
+    {
+        id: 4,
+        name: "Samit Antil",
+        medal: "Gold",
+        type: "P",
+        sports: "Javelin Throw",
+        country: "India",
+        age: "24",
+        gender: "Male",
+    },
+];
+
+export default dataObject;
